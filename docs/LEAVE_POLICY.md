@@ -21,16 +21,9 @@ public holidays.
 
 Your personal leave year = **365 days from the date you signed your agreement**.
 
-## How to Ask for Leave?
+## How to Request Leave?
 
-[Create Leave Request (GitHub form)](https://github.com/holdex/developers/issues/new?template=leave_request.yml).
-
-## What Happens After You Submit?
-
-| Result     | What HR does                                     |
-|------------|---------------------------------------------------|
-| Approved   | HR merges a PR and writes “Approved” in your request |
-| Rejected   | HR closes the request and explains why            |
+See the [Leave Request guide](https://wizard.holdex.io/docs/leave-request).
 
 ## Money Rules – Super Simple
 
